@@ -8,7 +8,6 @@ A **Loja Hamburgueria API** é uma API RESTful que foi desenvolvida para gerenci
 - **Entity Framework Core**: ORM para acesso ao banco de dados.
 - **MySQL**: Banco de dados relacional utilizado para persistência de dados.
 - **Swagger**: Utilizado para documentação da API.
-- **JWT**: Implementação de autenticação e autorização usando JSON Web Tokens.
 
 ## Endpoints
 
